@@ -11,6 +11,7 @@ Simple and easy-to-understand code structure, ideal for beginners.
 
 
 How to Play:
+
 Run the program.
 Press the spacebar to make the bird jump.
 Avoid the pipes and try to get the highest score possible.
