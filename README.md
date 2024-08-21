@@ -5,6 +5,7 @@ Features:
 Classic Flappy Bird mechanics with gravity and obstacles.
 Dynamic score calculation based on the number of pipes passed.
 Simple and easy-to-understand code structure, ideal for beginners.
+
 How to Play:
 Run the program.
 Press the spacebar to make the bird jump.
